@@ -1,5 +1,5 @@
-class first{
+class slogan {
     public static void main(String args[]) {
-        System.out.println("Fuad");
+        System.out.println("Write onece, run anywhere");
     }
 }
